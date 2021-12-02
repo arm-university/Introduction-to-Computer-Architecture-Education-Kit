@@ -15,7 +15,7 @@ Our Introduction to Computer Architecture Education Kit equips your students wit
  ## Kit specification:
 
 * A full set of lecture slides, ready for use in a typical 10-12 week undergraduate course (full syllabus below).
-* Lab manual with solutions for faculty are available upon request from [here](https://www.arm.com/resources/education/education-kits/aup-donation-request-form). The labs are based on a simple 5-stage processor for education purposes called the Arm Education Core, which is written in Verilog and can run a subset of the Armv8-A Assembly instructions. These labs provide a full hands-on experience of demonstrating and implementing Computer Architecture concepts such as pipelining, forwarding paths, stalls, control hazard solution using the Arm Education Core. 
+* **Lab manual with solutions for faculty are available upon request from [here](https://www.arm.com/resources/education/education-kits/aup-donation-request-form).** The labs are based on a simple 5-stage processor for education purposes called the Arm Education Core, which is written in Verilog and can run a subset of the Armv8-A Assembly instructions. These labs provide a full hands-on experience of demonstrating and implementing Computer Architecture concepts such as pipelining, forwarding paths, stalls, control hazard solution using the Arm Education Core. 
 * Prerequisites: Digital electronics, basics of hardware description language (Verilog), and familiarity with basic Assembly programming.
 
 ## Course Aim

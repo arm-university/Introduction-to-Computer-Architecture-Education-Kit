@@ -9,7 +9,7 @@ Our flagship offering to universities worldwide is the Arm University Program Ed
 
 These self-contained educational materials offered exclusively and at no cost to academics and teaching staff worldwide. They’re designed to support your day-to-day teaching on core electronic engineering and computer science subjects. You have the freedom to choose which modules to teach – you can use all the modules in the Education Kit or only those that are most appropriate to your teaching outcomes.
 
-Our Advanced System on Chip Design Education Kit equips your students with the fundamental concepts of computer architecture and how these concepts are applied and implemented in modern processors. This kit is suitable for introductory and mid-level computer architecture courses in Electronic and Computer Engineering, and Computer Science. A full description of the education kit can be found [here](https://www.arm.com/resources/education/education-kits/computer-architecture).
+Our Introduction to Computer Architecture Education Kit equips your students with the fundamental concepts of computer architecture and how these concepts are applied and implemented in modern processors. This kit is suitable for introductory and mid-level computer architecture courses in Electronic and Computer Engineering, and Computer Science. A full description of the education kit can be found [here](https://www.arm.com/resources/education/education-kits/computer-architecture).
 
 
  ## Kit specification:

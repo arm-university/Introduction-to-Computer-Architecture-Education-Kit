@@ -24,6 +24,8 @@
     
     (d) you may not use the Materials to design to manufacture Arm-based processors. 
     
+    (e) you may not modify the Materials for use with non-Arm-based architectures. 
+    
     You may not use the Materials for any unlawful purpose. The licence granted by Arm pursuant to this Clause 5 is effective until terminated. Without prejudice to any other rights, Arm may terminate this Agreement and your right to use the Materials if you are in material breach of any of these terms or if you do anything that infringes Arm’s intellectual property rights. Termination will be effective immediately on the service of Arm’s notice of termination to you. In the event of termination, you shall destroy all copies of the Materials, including all portions and derivatives of them, and cease all use of the Materials immediately. Clauses impliedly or expressly intended to survive termination shall continue in full force and effect.
 
 6. WARRANTIES AND LIMITATIONS. 

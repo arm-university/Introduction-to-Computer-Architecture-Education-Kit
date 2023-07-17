@@ -154,7 +154,7 @@
         {
             "title": "Multicore, Module 8",
             "subject": ["arm", "computer-engineering", "armv8", "electrical-engineering", "cortex-a", "cpu-architecture", "computer-architectures", "hardware-design"],
-            "type": "Lab",
+            "type": "Lecture",
             "format": "doc",
             "creator": ["Robert Mullins", "Timothy Jones", "Francisca Tan"],
             "publisher": "Arm Education",
